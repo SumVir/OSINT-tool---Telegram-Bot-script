@@ -1,4 +1,3 @@
-# OSINT-tool---Telegram-Bot-script
 # OSINT tool — Telegram Bot script
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
