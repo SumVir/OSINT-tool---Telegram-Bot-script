@@ -82,7 +82,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🤝 Contact
 
 - LinkedIn: [Nursaid Kamilli](https://www.linkedin.com/in/nursaid-kamilli)
-- Telegram: [@elsenoraccount](https://t.me/elsenoraccount)
 - Website: [saidsecurity.com](https://saidsecurity.com)
 
 ---
